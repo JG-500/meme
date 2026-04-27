@@ -1,0 +1,172 @@
+    1  git --version
+    2  ipconfig
+    3  fuck
+    4  cls
+    5  help
+    6  cl
+    7  ls
+    8  ls
+    9  ls
+   10  cls
+   11  ls - a
+   12  ls -la
+   13  cd Documents
+   14  ls
+   15  ls -la
+   16  mkdir aulagit
+   17  ls
+   18  ls -la
+   19  cd aulagit
+   20  clear
+   21  git clone https://github.com/JG-500/meme.git
+   22  ls
+   23  cd meme
+   24  ls
+   25  cd.
+   26  cd..
+   27  c/d
+   28  cd aulagit
+   29  clear
+   30  ls
+   31  vi
+   32  vi README.md
+   33  vi aula.txt
+   34  git add .
+   35  git status
+   36  git commit -m "primeiro commit"
+   37  git config --global --edit
+   38  git status
+   39  clear
+   40  git config --global --edit
+   41  git config --global user.name "jg-500"
+   42  git config --global user.email "cc25330@g.unicamp.br"
+   43  git status
+   44  git add .
+   45  git status
+   46  git push
+   47  git status
+   48  git push
+   49  git push
+   50  git push
+   51   /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-25.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/u25330/Library/Application\ Support/Code/User/workspaceStorage/01a92eefefd74339e36bcbbf4574f96b/redhat.java/jdt_ws/Pilha_3adeee42/bin Main 
+   52   cd /Volumes/u25330/Estrutura\ de\ dados/Pilha ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-25.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/u25330/Library/Application\ Support/Code/User/workspaceStorage/01a92eefefd74339e36bcbbf4574f96b/redhat.java/jdt_ws/Pilha_3adeee42/bin Main 
+   53   cd /Volumes/u25330/Estrutura\ de\ dados/Pilha ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-25.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/u25330/Library/Application\ Support/Code/User/workspaceStorage/01a92eefefd74339e36bcbbf4574f96b/redhat.java/jdt_ws/Pilha_3adeee42/bin Main 
+   54   cd /Volumes/u25330/Estrutura\ de\ dados/Pilha ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-25.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/u25330/Library/Application\ Support/Code/User/workspaceStorage/01a92eefefd74339e36bcbbf4574f96b/redhat.java/jdt_ws/Pilha_3adeee42/bin Main 
+   55   cd /Volumes/u25330/Estrutura\ de\ dados/Pilha ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-25.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/u25330/Library/Application\ Support/Code/User/workspaceStorage/01a92eefefd74339e36bcbbf4574f96b/redhat.java/jdt_ws/Pilha_3adeee42/bin Main 
+   56   cd /Volumes/u25330/Estrutura\ de\ dados/Pilha ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-25.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/u25330/Library/Application\ Support/Code/User/workspaceStorage/01a92eefefd74339e36bcbbf4574f96b/redhat.java/jdt_ws/Pilha_3adeee42/bin Main 
+   57   cd /Volumes/u25330/Estrutura\ de\ dados/Pilha ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-25.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/u25330/Library/Application\ Support/Code/User/workspaceStorage/01a92eefefd74339e36bcbbf4574f96b/redhat.java/jdt_ws/Pilha_3adeee42/bin Main 
+   58   cd /Volumes/u25330/Estrutura\ de\ dados/Pilha ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-25.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/u25330/Library/Application\ Support/Code/User/workspaceStorage/01a92eefefd74339e36bcbbf4574f96b/redhat.java/jdt_ws/Pilha_3adeee42/bin Main 
+   59   cd /Volumes/u25330/Estrutura\ de\ dados/Pilha ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-25.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/u25330/Library/Application\ Support/Code/User/workspaceStorage/01a92eefefd74339e36bcbbf4574f96b/redhat.java/jdt_ws/Pilha_3adeee42/bin Main 
+   60   cd /Volumes/u25330/Estrutura\ de\ dados/Pilha ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-25.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/u25330/Library/Application\ Support/Code/User/workspaceStorage/01a92eefefd74339e36bcbbf4574f96b/redhat.java/jdt_ws/Pilha_3adeee42/bin Main 
+   61   cd /Volumes/u25330/Estrutura\ de\ dados/Pilha ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-25.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/u25330/Library/Application\ Support/Code/User/workspaceStorage/01a92eefefd74339e36bcbbf4574f96b/redhat.java/jdt_ws/Pilha_3adeee42/bin Main 
+   62   /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-25.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/u25330/Library/Application\ Support/Code/User/workspaceStorage/01a92eefefd74339e36bcbbf4574f96b/redhat.java/jdt_ws/Pilha_3adeee42/bin Main 
+   63   cd /Volumes/u25330/Estrutura\ de\ dados/Pilha ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-25.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/u25330/Library/Application\ Support/Code/User/workspaceStorage/01a92eefefd74339e36bcbbf4574f96b/redhat.java/jdt_ws/Pilha_3adeee42/bin Main 
+   64   /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-25.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/u25330/Library/Application\ Support/Code/User/workspaceStorage/01a92eefefd74339e36bcbbf4574f96b/redhat.java/jdt_ws/Pilha_3adeee42/bin Main 
+   65   /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-25.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/u25330/Library/Application\ Support/Code/User/workspaceStorage/01a92eefefd74339e36bcbbf4574f96b/redhat.java/jdt_ws/Pilha_3adeee42/bin Main 
+   66   /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-25.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/u25330/Library/Application\ Support/Code/User/workspaceStorage/01a92eefefd74339e36bcbbf4574f96b/redhat.java/jdt_ws/Pilha_3adeee42/bin Main 
+   67   /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-25.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/u25330/Library/Application\ Support/Code/User/workspaceStorage/01a92eefefd74339e36bcbbf4574f96b/redhat.java/jdt_ws/Pilha_3adeee42/bin Main 
+   68   /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-25.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/u25330/Library/Application\ Support/Code/User/workspaceStorage/01a92eefefd74339e36bcbbf4574f96b/redhat.java/jdt_ws/Pilha_3adeee42/bin Main 
+   69   /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-25.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/u25330/Library/Application\ Support/Code/User/workspaceStorage/01a92eefefd74339e36bcbbf4574f96b/redhat.java/jdt_ws/Pilha_3adeee42/bin Main 
+   70   /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-25.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/u25330/Library/Application\ Support/Code/User/workspaceStorage/01a92eefefd74339e36bcbbf4574f96b/redhat.java/jdt_ws/Pilha_3adeee42/bin Main 
+   71   /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-25.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/u25330/Library/Application\ Support/Code/User/workspaceStorage/01a92eefefd74339e36bcbbf4574f96b/redhat.java/jdt_ws/Pilha_3adeee42/bin Main 
+   72   /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-25.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/u25330/Library/Application\ Support/Code/User/workspaceStorage/01a92eefefd74339e36bcbbf4574f96b/redhat.java/jdt_ws/Pilha_3adeee42/bin Main 
+   73   /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-25.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/u25330/Library/Application\ Support/Code/User/workspaceStorage/01a92eefefd74339e36bcbbf4574f96b/redhat.java/jdt_ws/Pilha_3adeee42/bin Main 
+   74   /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-25.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/u25330/Library/Application\ Support/Code/User/workspaceStorage/01a92eefefd74339e36bcbbf4574f96b/redhat.java/jdt_ws/Pilha_3adeee42/bin Main 
+   75   /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-25.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/u25330/Library/Application\ Support/Code/User/workspaceStorage/01a92eefefd74339e36bcbbf4574f96b/redhat.java/jdt_ws/Pilha_3adeee42/bin Main 
+   76   /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-25.jdk/Contents/Home/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/u25330/Library/Application\ Support/Code/User/workspaceStorage/01a92eefefd74339e36bcbbf4574f96b/redhat.java/jdt_ws/Pilha_3adeee42/bin Main 
+   77  vim
+   78  nino
+   79  nimo
+   80  mino
+   81  vi
+   82  nano
+   83  clear
+   84  clear
+   85  ls
+   86  cd Documents
+   87  ls
+   88  lsa
+   89  cd.
+   90  cd..
+   91  cd/
+   92  cd.
+   93  clear
+   94  cd ..
+   95  cd.
+   96  cls
+   97  clear
+   98  als
+   99  clear
+  100  cd documents
+  101  ls
+  102  cd aulagit
+  103  ls
+  104  cd meme
+  105  ls
+  106  touch teste2.txt
+  107  ls
+  108  git add.
+  109  git add .
+  110  git commit -m "Testando commit"
+  111  git push
+  112  cat teste2.txt
+  113  cat teste1.txt
+  114  cat teste.txt
+  115  cd documents
+  116  clear
+  117  ls
+  118  cata aula.txt
+  119  cat aula.txt
+  120  git pull
+  121  ls
+  122  cat testepull.txt
+  123  nivo
+  124  git pull
+  125  vi teste2.txt
+  126  git pull
+  127  cat teste2.txt
+  128  git pull
+  129  git add .
+  130  git status
+  131  git commit -m "Teste"
+  132  git status
+  133  git pull
+  134  git push
+  135  git branch
+  136  git checkout -b feature/novalinha
+  137  git branch
+  138  git pull
+  139  vi teste2.txt
+  140  git status
+  141  git add .
+  142  git status
+  143  git commit -m "teste branch"
+  144  git push
+  145  git push -u origin feature/novalinha
+  146  git checkout main
+  147  git merge feature/novalinha 
+  148  git branch -d feature/novalinha
+  149  git branch
+  150  clear
+  151  touch teste.py
+  152  vi teste.py
+  153  git add .
+  154  git status
+  155  git pull
+  156  git status
+  157  git commit -m "Teste com .py"
+  158  git push
+  159  clear
+  160  ls
+  161  cat teste2.txt
+  162  vim teste2.txt
+  163  vi
+  164  vim
+  165  nano teste2.txt
+  166  git push origin --delete feature/novalinha
+  167  git branch -r
+  168  clear
+  169  history 1 > historico.txt
+  170  cat historico.txt
+  171  vi historico.txt
+  172  history 1> historico.txt
