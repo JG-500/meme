@@ -22,6 +22,6 @@ jobs:
         working-directory: projeto
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Lista para ver se os arquivos estao
         run: ls -Rla
