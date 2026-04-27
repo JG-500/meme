@@ -1,0 +1,29 @@
+{
+  "name": "aula_tec",
+  "version": "1.0.0",
+  "description": "Aula de exemplo git actions",
+  "keywords": [
+    "actions",
+    "node",
+    "jest"
+  ],
+  "homepage": "https://github.com/JG-500/meme#readme",
+  "bugs": {
+    "url": "https://github.com/JG-500/meme/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JG-500/meme.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

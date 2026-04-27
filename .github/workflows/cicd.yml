@@ -1,7 +1,12 @@
 # Arquivo para ci/cd AULA TI323 2026
 name:  CI/CD TI323
 
-on:  [push]
+on: # [push]
+  push:
+    branches:
+      - main
+    paths:
+      - 'projeto/**'
 
 jobs:
   informacao_sistema:
@@ -9,3 +14,14 @@ jobs:
     steps:  #passo a serem executados
       - name: Lista o diretorio corrente
         run:  ls -la
+
+  compila_o_projeto:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: projeto
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Lista para ver se os arquivos estao
+        run: ls -Rla
