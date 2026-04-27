@@ -5,7 +5,7 @@ on:  [push]
 
 jobs:
   informacao_sistema:
-    runs-on:  ubuntu-lastest
+    runs-on:  ubuntu-latest
     steps:  #passo a serem executados
       - name: Lista o diretorio corrente
         run:  ls -la
