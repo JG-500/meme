@@ -8,6 +8,17 @@ on: # [push]
     paths:
       - 'projeto/**'
 
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: Força Bruta
+        type: choice
+        required: true
+        default: dev
+        options:
+          - web
+          - mac
+
 jobs:
   informacao_sistema:
     runs-on:  ubuntu-latest
